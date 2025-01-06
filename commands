@@ -1,0 +1,6 @@
+
+1 ) git init
+2) git clone
+3)git config --global user.name "your name"
+4)git status
+5) git add <file>
